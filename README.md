@@ -23,7 +23,7 @@ __📌 O que é o protocolo HTTP?__
 <h3 align="center">🌐 Comunicação entre Cliente e Servidor</h3>
 
 <p align="center">
-  <img width="500" src="./HTTP.png">
+  <img width="500" src="./.imgs/HTTP.png">
 </p>
 
 1. __🧑‍💻 Cliente faz a requisição__<br>
